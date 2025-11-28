@@ -16,4 +16,9 @@ console.log(typeof isAutomation)
 
 let hasPlaywright
 console.log(hasPlaywright)
+
 console.log(typeof hasPlaywright)
+
+let middleName=null
+console.log(middleName)
+console.log(typeof middleName)
